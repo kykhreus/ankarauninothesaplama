@@ -1,0 +1,17 @@
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not_hesaplama.Form1.resources
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.exe
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.deps.json
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.runtimeconfig.json
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.dll
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.pdb
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.dll
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\refint\Not hesaplama.dll
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.pdb
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\ref\Not hesaplama.dll
