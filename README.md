@@ -8,7 +8,7 @@ Nasıl kullanabilirim?
 
 2- İndirmiş olduğunuz rar dosyasını çıkartın.
 
-3- Rar dosyasındaki klasörleri bir klasörün içerisine toplayın ve çalıştırın.
+3- Rar dosyasındaki "Not hesaplama.exe" adlı dosyayı çalıştırın.
 
 4- Çalıştırdığınız uygulamada vize ve final notu kısmını doldurun.
 
