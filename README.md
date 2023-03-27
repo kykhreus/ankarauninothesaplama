@@ -1,4 +1,3 @@
-# ankarauninothesaplama
-Ankara üniversitesi not hesaplama
+# Ankara Üniversitesi not hesaplama programı
 
-Kullanmak isteyen herkes kullanabilir. Programdaki bütün dosyaları aynı anda indirip çalıştırmanız gerklidir
+Kullanmak isteyen herkes kullanabilir. Programdaki bütün dosyaları aynı anda indirip çalıştırmanız gereklidir.
