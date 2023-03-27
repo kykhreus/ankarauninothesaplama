@@ -15,3 +15,5 @@ Nasıl kullanabilirim?
 Sonrasında program vizenin %30'u finalin %80'ini alacak şekilde sizin not ortalamanızı hesaplayacaktır.
 
 Soru ve görüşleriniz için kykhreusgamer@gmail.com mail adresi üzerinden ulaşabilirsiniz.
+
+Not: Kaynak dosyasında projenin dosyalarını bulabilirsiniz.
